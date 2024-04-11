@@ -1,0 +1,6 @@
+C:\Users\Cole\Desktop\C_Sharp2\CigarDB\bin\Debug\CigarDB.dacpac
+C:\Users\Cole\Desktop\C_Sharp2\CigarDB\bin\Debug\CigarDB.dll
+C:\Users\Cole\Desktop\C_Sharp2\CigarDB\bin\Debug\CigarDB.pdb
+C:\Users\Cole\Desktop\C_Sharp2\CigarDB\obj\Debug\CigarDB.sqlproj.AssemblyReference.cache
+C:\Users\Cole\Desktop\C_Sharp2\CigarDB\obj\Debug\CigarDB.dll
+C:\Users\Cole\Desktop\C_Sharp2\CigarDB\obj\Debug\CigarDB.pdb

@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Cigar] (Table)
+       [dbo].[spCigar_Delete] (Procedure)
+       [dbo].[spCigar_Get] (Procedure)
+       [dbo].[spCigar_GetAll] (Procedure)
+       [dbo].[spCigar_Insert] (Procedure)
+       [dbo].[spCigar_Update] (Procedure)
+
+** Supporting actions
