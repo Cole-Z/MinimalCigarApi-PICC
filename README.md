@@ -9,15 +9,15 @@ Response Schema:
 ```
 CigarModel
 {
-  id	[...]
-  brand	[...]
-  name	[...]
+  id	    [...]
+  brand	  [...]
+  name	  [...]
   wrapper	[...]
   binder	[...]
   filler	[...]
   origin	[...]
-  body	[...]
-  price	[...]
+  body	  [...]
+  price	  [...]
 }
 ```
 
@@ -221,6 +221,28 @@ CigarModel
     "price": 16.5
   }
 ]
+```
+
+### Get By Obj ID
+```
+curl -X 'GET' \
+  'https://localhost:7284/Cigars/10' \
+  -H 'accept: */*'
+```
+
+### Response for searched ID
+```
+{
+  "id": 10,
+  "brand": "Black Works Studio",
+  "name": "Killer Bee",
+  "wrapper": "Maduro Ecuadorian",
+  "binder": "Nicaraguan",
+  "filler": "Nicaraguan",
+  "origin": "Nicaraguan",
+  "body": "Full",
+  "price": 13.75
+}
 ```
 
 Database used is Micrsoft SQL server prject from visual studio.
